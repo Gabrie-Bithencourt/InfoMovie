@@ -1,2 +1,2 @@
 # InfoMovie
-<h1> Site de informações de filmes desenvolvido em React e alimentado pela API TMDB <h1>
+<p> MovieLib é uma biblioteca de filmes. O site é abastecido através da API gratuita TMDB.</p>
