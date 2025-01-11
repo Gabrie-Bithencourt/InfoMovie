@@ -8,6 +8,4 @@
 <br><br>
 
 <p>Preview:</p>
-<video src="https://drive.google.com/file/d/1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5/view?usp=drive_link" controls width="600"></video>
-
-
+<video src="https://drive.google.com/file/d/1-pPaaGrko1WRPUD7cy-FmCXVmdoul6n5/view?usp=sharing" controls width="600"></video>
