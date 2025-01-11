@@ -8,4 +8,4 @@
 <br><br>
 
 <p>Preview:</p>
-<video src="https://www.youtube.com/watch?v=WfZdwzTyrCs"></video>
+<img src="https://drive.google.com/file/d/1k6WbLWZ8eI5QXPAHSDxCNOVI-7vhDRsD/view?usp=drive_link">
