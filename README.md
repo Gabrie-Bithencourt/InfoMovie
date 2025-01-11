@@ -1,5 +1,5 @@
 # MovieLib
-<p> MovieLib é uma biblioteca de filmes que é abastecida através da API gratuita TMDB. O site foi desenvolvido com o intuito de desenvolver um projeto prático em react</p>
+<p> MovieLib é uma biblioteca de filmes que é abastecida através da API gratuita TMDB. O site foi desenvolvido com o intuito de desenvolver um projeto prático em React.</p>
 <p>Tecnologias Utilizadas:</p>
 <ul>
   <li>Javascript</li>
