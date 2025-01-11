@@ -5,7 +5,7 @@
   <li>Javascript</li>
   <li>React JS</li>
 </ul>
-<br><br>
+<br>
 
 <p>Preview:</p>
 <img src="https://drive.google.com/uc?id=1hycAHasu6koRey5u_z344-36Y0G9IjZK">
