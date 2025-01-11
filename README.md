@@ -11,7 +11,7 @@
 <img src="https://drive.google.com/uc?id=1hycAHasu6koRey5u_z344-36Y0G9IjZK">
 <img src="https://drive.google.com/uc?id=1GaMdENYhkiFBek1BGTaTYwPhmRj8i82J">
 
-# Baixe e teste Local
+# Baixar e testar Localmente
 <p>Para rodar o MovieLib, basta clonar o repositório e rodar os seguintes comandos:</p>
 <ul>
   <li>npm install</li>
